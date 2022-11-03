@@ -3,7 +3,7 @@
 Link de descarga : https://nodejs.org/es/download/
 
 # Paso 2
-###Ingresar a la carpeta del proyecto y ejecutar el siguiente comando para instalar todas las dependecias del proyecto<br>
+### Ingresar a la carpeta del proyecto y ejecutar el siguiente comando para instalar todas las dependecias del proyecto<br>
 <code>npm install</code>
 
 # Paso 3
@@ -19,6 +19,6 @@ misc-geo-stores-api<br>
 misc-geo-stores<br>
 
 # Paso 4
-###Luego ejecutar el script<br>
+### Luego ejecutar el script<br>
 <code>node main.js</code>
 
