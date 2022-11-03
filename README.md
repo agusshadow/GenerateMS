@@ -3,7 +3,7 @@
 Link de descarga : https://nodejs.org/es/download/
 
 # Paso 2
-### Ingresar a la carpeta del proyecto y ejecutar el siguiente comando para instalar todas las dependecias requeridas<br>
+### Ingresar a la carpeta del proyecto y ejecutar el siguiente comando para instalar todas las dependencias requeridas<br>
 <code>npm install</code>
 
 # Paso 3
