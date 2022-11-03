@@ -3,15 +3,17 @@ Ingresar a la carpeta del proyecto y ejecutar el siguiente comando para instalar
 <code>npm install</code>
 
 ## Paso 2
+<code>
 geo-stores<br>
-geo-stores-api
-geo-storer
-cpgs-geo-stores
-cpgs-geo-stores-api
-cpgs-geo-storer
-misc-geo-stores
-misc-geo-stores-api
-misc-geo-stores
+geo-stores-api<br>
+geo-storer<br>
+cpgs-geo-stores<br>
+cpgs-geo-stores-api<br>
+cpgs-geo-storer<br>
+misc-geo-stores<br>
+misc-geo-stores-api<br>
+misc-geo-stores<br>
+</code>
 
 ## Paso 3
 Luego ejecutar el script
