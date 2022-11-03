@@ -14,5 +14,5 @@ misc-geo-stores-api<br>
 misc-geo-stores<br>
 
 ## Paso 3
-Luego ejecutar el script
+Luego ejecutar el script<br>
 <code>node main.js</code>
