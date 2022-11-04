@@ -18,7 +18,7 @@ let data = ""
 fs.readFile("ms.txt", 'utf8', (error, datos) => {
     if (error) throw error;
 
-    lista = datos.split("\r\n")
+    lista = datos.split("\n")
 
     lista.forEach((ms) => {
         paises.forEach((pais) => {
